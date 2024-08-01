@@ -245,7 +245,7 @@
         point and adjust to suit. Too long and you may notice a timing lag, too
         short and the next note will be triggered before the pitch is updated.
     */
-        RetrigDelay: 0
+        RetrigDelay: 5
 
     /*
         Max Dub Level:
@@ -294,7 +294,7 @@
 
         Each of these parameters are set in a range from 0-1.
     */
-        WowFlutterDepth: 0.2
+        WowFlutterDepth: 0.3
         CrinkleDepth: 0.2
         TapeAge: 0.3
         Hysterisis: 0.2
@@ -344,7 +344,7 @@
         and especially handy when used with a sequencer in combination with
         V/Oct speed control.
     */
-        SpeedSlewTime: 12
+        SpeedSlewTime: 7
 
     /*
         Capacitive Touch Mode:
