@@ -1,0 +1,17 @@
+/*
+	Preset Loader
+
+    Use this file to select which two presets you would like to be able to
+	toggle between when using the Toggle Preset button combination (both
+	retrigs + erase - see the quickstart guide or better yet manual for more
+	details). Simply enter the name of any two preset files found in the preset
+	folder of your USB drive.
+
+    Feel free to edit the factory presets to your taste. If you would like to
+	reset them to there default values then simply delete them and the original
+	version will re-appear.
+*/
+{
+    PresetA: "Tape-Looper"
+    PresetB: "Clean"
+}
