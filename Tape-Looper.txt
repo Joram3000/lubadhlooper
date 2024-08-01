@@ -1,0 +1,39 @@
+/*
+	Tape-Looper
+*/
+{
+    "RecordSpeed": 1,
+    "PlaybackSpeed": {
+        "Looping": 0,
+        "Oneshot": 0
+    },
+    "MultiTap": 0,
+    "SpeedControl": 1,
+    "SpeedMarkers": [0, 0.5, 0.667, 1, 1.5, 1.8, 2, 2.25, 2.667, 3],
+    "TimePot": 0,
+    "RecordJack": 2,
+    "ExternalClock": {
+        "Average": 4,
+        "Resolution": 64,
+        "Timeout": 0
+    },
+    "ClockDivisions": 1,
+    "Quantisation": 0,
+    "EraseRecord": 0,
+    "MinLength": 600,
+    "CrossfadeDuration": 17,
+    "RetrigDelay": 0,
+    "MaxDubLevel": 0.9,
+    "WowFlutterDepth": 0.1,
+    "CrinkleDepth": 0.2,
+    "TapeAge": 0.1,
+    "Hysterisis": 0.2,
+    "Wear": 0.1,
+    "Knee": 0.1,
+    "Compensation": 0.2,
+    "LowCutFreq": 100,
+    "LowCutQ": 0.4,
+    "HighCutFreq": 10000,
+    "SpeedSlewTime": 12,
+    "CapacativeTouchMode": 0
+}
